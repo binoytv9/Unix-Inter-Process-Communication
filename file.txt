@@ -1,0 +1,18 @@
+getup
+brush
+bath
+breakfast
+get ready
+goto school
+attnd assembly
+goto class
+study
+lunch
+again study
+goto home
+drink tea
+play
+again bath
+study
+dinner
+sleep
